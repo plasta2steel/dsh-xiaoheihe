@@ -64,7 +64,6 @@ dsh plugin --profile web add /path/to/dsh-xiaoheihe
 ```
 
 装完**重启 dsh web** 并刷新页面,右侧即出现分区。
-```
 
 **本地开发安装**(把下面路径换成你的插件目录即可,无需构建)
 
