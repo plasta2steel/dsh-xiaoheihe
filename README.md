@@ -49,12 +49,22 @@ heybox(VSCode 版)的「小黑盒论坛浏览」搬进 DSH Web 的右侧分栏 �
 
 ## 安装
 
-```bash
-# 在 DSH profile(如 ~/.dsh/profiles/web)安装本目录
-dsh plugin --profile web add D:/dsh/heybox
+> 仓库:https://github.com/plasta2steel/dsh-xiaoheihe
+> 包名按 `package.json` 解析为 `heybox`,安装后 bundle 显示名也是 `heybox`。
 
-# 重启 dsh web 后刷新页面
+**从 GitHub 安装**
+
+```bash
+dsh plugin --profile web add github:plasta2steel/dsh-xiaoheihe
 ```
+
+**本地开发安装**(把下面路径换成你的插件目录即可,无需构建)
+
+```bash
+dsh plugin --profile web add /path/to/dsh-xiaoheihe
+```
+
+装完**重启 dsh web** 并刷新页面,右侧即出现分区。
 
 ## 使用
 
