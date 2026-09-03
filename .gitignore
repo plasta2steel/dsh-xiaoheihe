@@ -1,0 +1,18 @@
+# dependencies / local state
+node_modules/
+package-lock.json
+*.log
+
+# editor / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# dev leftovers
+_discover/
+heybox-master.zip
+
+# local dsh runtime state (never publish cookies)
+state.json
+.dsh/
