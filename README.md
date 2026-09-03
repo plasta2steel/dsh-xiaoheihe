@@ -48,9 +48,6 @@
 
 ## 安装
 
-> 仓库:https://github.com/plasta2steel/dsh-xiaoheihe
-> 包名按 `package.json` 解析为 `heybox`,安装后 bundle 显示名也是 `heybox`。
-
 **从 GitHub 安装**
 
 ```bash
