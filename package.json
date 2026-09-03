@@ -1,7 +1,7 @@
-{
+﻿{
   "name": "heybox",
-  "version": "0.3.2",
-  "description": "小黑盒论坛分区(HeyBox):在 DSH Web 会话右侧开一个可伸缩的小黑盒(xiaoheihe.cn)客户端分区 — 推荐/板块/收藏/搜索/帖子详情与评论/消息提醒,照搬 WenfuRainbow/heybox 的交互与接口。/ A xiaoheihe.cn forum pane docked beside the DSH Web conversation, ported from WenfuRainbow/heybox.",
+  "version": "0.3.3",
+  "description": "灏忛粦鐩掕鍧涘垎鍖?HeyBox):鍦?DSH Web 浼氳瘽鍙充晶寮€涓€涓彲浼哥缉鐨勫皬榛戠洅(xiaoheihe.cn)瀹㈡埛绔垎鍖?鈥?鎺ㄨ崘/鏉垮潡/鏀惰棌/鎼滅储/甯栧瓙璇︽儏涓庤瘎璁?娑堟伅鎻愰啋,鐓ф惉 WenfuRainbow/heybox 鐨勪氦浜掍笌鎺ュ彛銆? A xiaoheihe.cn forum pane docked beside the DSH Web conversation, ported from WenfuRainbow/heybox.",
   "license": "MIT",
   "type": "module",
   "main": "lib/index.js",
@@ -50,3 +50,4 @@
     "prepublishOnly": "npm run check && npm test"
   }
 }
+
