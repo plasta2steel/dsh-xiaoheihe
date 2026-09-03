@@ -1,6 +1,6 @@
 {
   "name": "heybox",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "小黑盒论坛分区(HeyBox):在 DSH Web 会话右侧开一个可伸缩的小黑盒(xiaoheihe.cn)客户端分区 — 推荐/板块/收藏/搜索/帖子详情与评论/消息提醒,照搬 WenfuRainbow/heybox 的交互与接口。/ A xiaoheihe.cn forum pane docked beside the DSH Web conversation, ported from WenfuRainbow/heybox.",
   "license": "MIT",
   "type": "module",
