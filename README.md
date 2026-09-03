@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/version-0.3.4-blue" alt="version" />
+  <img src="https://img.shields.io/badge/version-0.3.5-blue" alt="version" />
   <img src="https://img.shields.io/badge/license-MIT-green" alt="license" />
   <img src="https://img.shields.io/badge/platform-DSH%20Web-blueviolet" alt="platform" />
   <img src="https://img.shields.io/badge/type-web%20client%20plugin-ff69b4" alt="type" />
