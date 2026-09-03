@@ -55,8 +55,6 @@
 
 ```bash
 dsh plugin --profile web add github:plasta2steel/dsh-xiaoheihe
-<<<<<<< HEAD
-=======
 ```
 
 **本地开发安装**(把下面路径换成你的插件目录即可,无需构建)
@@ -66,7 +64,6 @@ dsh plugin --profile web add /path/to/dsh-xiaoheihe
 ```
 
 装完**重启 dsh web** 并刷新页面,右侧即出现分区。
->>>>>>> 51f538fd562e44261bbce58d53dd17446ebda64a
 ```
 
 **本地开发安装**(把下面路径换成你的插件目录即可,无需构建)
