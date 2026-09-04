@@ -41,7 +41,6 @@ global.window = {
 
 const noop = () => {};
 const fakeReact = {
-  Component: function Component() {},
   useState: () => [undefined, noop],
   useEffect: noop,
   useRef: () => ({ current: null }),
